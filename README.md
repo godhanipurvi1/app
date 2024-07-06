@@ -5,7 +5,7 @@ This repository contains the source code for a simple e-commerce mobile app. The
 ## Screenshots
 
 ### Home Page
-![Home Page]![Screenshot 2024-07-06 174031]<img src="https://github.com/godhanipurvi1/app/assets/167908469/ae97327b-f4b9-4a29-8796-0312f38d3697" width="100" height="200">
+![Home Page]!<img src="https://github.com/godhanipurvi1/app/assets/167908469/ae97327b-f4b9-4a29-8796-0312f38d3697" width="100" height="200">
 
 
 ### Product Details
